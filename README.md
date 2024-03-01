@@ -24,6 +24,9 @@ To view the preloader animation and content:
 ## Credits
 
 - Images sourced from [Unsplash](https://unsplash.com/) and [Lorem Picsum](https://picsum.photos/).
-- Placeholder images from [PlaceKitten](https://placekitten.com/) and [PlaceBear](https://placebear.com/).
+## Features
+
+- **Dynamic Image Refresh**: The nature and random images on the webpage change after each refresh, providing a unique viewing experience.
+
 
  
